@@ -10,10 +10,10 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-    <a href="https://github.com/TeamSukun/shayachatbot"> <img src="https://img.shields.io/github/repo-size/TeamSukun/shayachatbot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/TeamSukun/shayachatbot/commits/prince"> <img src="https://img.shields.io/github/last-commit/TeamSukun/shayachatbot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/TeamSukun/shayachatbot/issues"> <img src="https://img.shields.io/github/issues/TeamSukun/shayachatbot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/TeamSukun/shayachatbot/network/members"> <img src="https://img.shields.io/github/forks/TeamSukun/shayachatbot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/sauryakapoor15/shaya-chatbot"> <img src="https://img.shields.io/github/repo-size/sauryakapoor15/shaya-chatbot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/sauryakapoor15/shaya-chatbot/commits/prince"> <img src="https://img.shields.io/github/last-commit/sauryakapoor15/shaya-chatbot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/sauryakapoor15/shaya-chatbot/issues"> <img src="https://img.shields.io/github/issues/sauryakapoor15/shaya-chatbot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/sauryakapoor15/shaya-chatbot/network/members"> <img src="https://img.shields.io/github/forks/sauryakapoor15/shaya-chatbot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
